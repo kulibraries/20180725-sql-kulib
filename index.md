@@ -373,7 +373,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h3>DB Browser for SQLite</h3>
   <p>
     SQL is a specialized programming language used with databases. We
-    use DB Browser for SQLite, a graphical user interface for the SQLite database manager. Follow the link to install DB Browser for SQLite and select the installer for your system. This application comes with SQLite, so you won't need to install SQLite separately.
+    use DB Browser for SQLite, a graphical user interface for the SQLite database manager. Follow the link to install <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a> and select the installer for your system. This application comes with SQLite, so you won't need to install SQLite separately.
   </p>  
   <p>
     Note that on Windows, the PortableApp download is recommended as the regular version may take a long time to install on certain systems.
